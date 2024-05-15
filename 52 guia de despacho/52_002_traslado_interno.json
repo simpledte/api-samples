@@ -1,0 +1,24 @@
+{
+    "Encabezado": {
+        "IdDoc": {
+            "TipoDTE": 52,
+            "Folio": 1,
+            "IndTraslado": 5
+        },
+        "Emisor": {
+            "RUTEmisor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Receptor": {
+            "RUTReceptor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Transporte": {
+            "Patente": "ABCD12",
+            "DirDest": "Calle 123",
+            "CmnaDest": "Santiago"
+        }
+    },
+    "Detalle": {
+        "NmbItem": "Impresora",
+        "QtyItem": "1"
+    }
+}

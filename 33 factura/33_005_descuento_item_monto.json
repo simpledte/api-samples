@@ -1,0 +1,28 @@
+{
+    "Encabezado": {
+        "IdDoc": {
+            "TipoDTE": 33
+        },
+        "Emisor": {
+            "RUTEmisor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Receptor": {
+            "RUTRecep": "60803000-K",
+            "RznSocRecep": "Servicio de Impuestos Internos",
+            "GiroRecep": "Gobierno",
+            "DirRecep": "Santiago",
+            "CmnaRecep": "Santiago"
+        }
+    },
+    "Detalle": {
+        "CdgItem": {
+            "TpoCodigo": "INT1",
+            "VlrCodigo": "contc"
+        },
+        "NmbItem": "Conectores RJ45",
+        "DscItem": "RJ45",
+        "QtyItem": "1",
+        "PrcItem": "104090",
+        "DescuentoMonto": "10000"
+    }
+}

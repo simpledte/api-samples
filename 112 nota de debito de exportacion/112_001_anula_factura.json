@@ -1,0 +1,46 @@
+{
+    "Encabezado": {
+        "IdDoc": {
+            "TipoDTE": 112,
+            "IndServicio": 4
+        },
+        "Emisor": {
+            "RUTEmisor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Receptor": {
+            "RUTRecep": "55555555-5",
+            "RznSocRecep": "Tom Cruise",
+            "Extranjero": {
+                "Nacionalidad": "225"
+            },
+            "GiroRecep": "Particular",
+            "DirRecep": "Calle 123, Encinitas, CA"
+        },
+        "Totales": {
+            "TpoMoneda": "DOLAR USA"
+        },
+        "OtraMoneda": {
+            "TpoMoneda" : "PESO CL",
+            "TpoCambio": 500
+        }
+    },
+    "Detalle": {
+        "IndExe": 1,
+        "NmbItem": "Alojamiento 5 noches",
+        "QtyItem": 1,
+        "PrcItem": 50
+    },
+    "Referencia": [
+        {
+            "TpoDocRef": 813,
+            "FolioRef": "E12345"
+        },
+        {
+            "TpoDocRef": 110,
+            "FolioRef": 1,
+            "FchRef": "2016-01-01",
+            "CodRef": 1,
+            "RazonRef": "Anula factura"
+        }
+    ]
+}

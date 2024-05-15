@@ -1,0 +1,28 @@
+{
+    "Encabezado": {
+        "IdDoc": {
+            "TipoDTE": 41
+        },
+        "Emisor": {
+            "RUTEmisor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Receptor": {
+            "RUTRecep": "66666666-6",
+            "RznSocRecep": "Sin RUT",
+            "DirRecep": "Santiago",
+            "CmnaRecep": "Santiago"
+        }
+    },
+    "Detalle": {
+	    "IndExe": 1,
+        "NmbItem": "Producto",
+        "QtyItem": 1,
+        "PrcItem": 1000
+    },
+    "DscRcgGlobal": {
+	    "IndExeDR": 1,
+        "TpoMov": "D",
+        "TpoValor": "%",
+        "ValorDR": 10
+    }
+}

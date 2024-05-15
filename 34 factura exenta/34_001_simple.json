@@ -1,0 +1,25 @@
+{
+    "Encabezado": {
+        "IdDoc": {
+            "TipoDTE": 34
+        },
+        "Emisor": {
+            "RUTEmisor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Receptor": {
+            "RUTRecep": "60803000-K",
+            "RznSocRecep": "Servicio de Impuestos Internos",
+            "GiroRecep": "Gobierno",
+            "DirRecep": "Santiago",
+            "CmnaRecep": "Santiago"
+        }
+    },
+    "Detalle": [
+        {
+            "IndExe": 1,
+            "NmbItem": "Conectores RJ45",
+            "QtyItem": 450,
+            "PrcItem": 70
+        }
+    ]
+}

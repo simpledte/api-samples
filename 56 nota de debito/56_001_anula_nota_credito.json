@@ -1,0 +1,31 @@
+{
+    "Encabezado": {
+        "IdDoc": {
+            "TipoDTE": 56
+        },
+        "Emisor": {
+            "RUTEmisor": "RUT DE LA CUENTA FORMATO 11111111-1"
+        },
+        "Receptor": {
+            "RUTRecep": "60803000-K",
+            "RznSocRecep": "Servicio de Impuestos Internos",
+            "GiroRecep": "Gobierno",
+            "DirRecep": "Santiago",
+            "CmnaRecep": "Santiago"
+        }
+    },
+    "Detalle": [
+        {
+            "NmbItem": "Conectores RJ45",
+            "QtyItem": 450,
+            "PrcItem": 70
+        }
+    ],
+    "Referencia": {
+        "TpoDocRef": 61,
+        "FolioRef": 1,
+        "FchRef": "2016-01-01",
+        "CodRef": 1,
+        "RazonRef": "Anula nota de crédito electrónica"
+    }
+}
